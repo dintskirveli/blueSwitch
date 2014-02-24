@@ -1,6 +1,6 @@
 #include <SoftwareSerial.h>
 
-SoftwareSerial Blue(3,4); // RX, TX
+SoftwareSerial Blue(4, 3); // RX, TX
 
 #define RELAY_PIN 0
 #define CAP_SEND 1
